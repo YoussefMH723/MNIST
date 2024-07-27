@@ -3,7 +3,7 @@ import data_setup, model_builder, engine, utils
 
 DATA_PATH = 'data/'
 MODEL_NAME = "cnn_MNIST"
-NUM_EPOCHS = 3
+NUM_EPOCHS = 5
 BATCH_SIZE = 64
 HIDDEN_UNITS = 16
 LEARNING_RATE = 0.01
