@@ -1,5 +1,5 @@
-# Mnist (hand written digits) classification
-This repo contains of a full production pipeline:
+# MNIST (hand written digits) classification
+This repo contains a full production pipeline:
 
 1 - Downloading data or reading it, if it already exists.
 
